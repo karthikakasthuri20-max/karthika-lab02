@@ -1,9 +1,9 @@
 # Lab 2: SQLite Database and CRUD Routes
 
 ## Student Details
-- Name: [Your Name]
-- Registration Number: [Your Registration Number]
-- Section: [Your Section]
+- Name: [Karthika Kasthuri]
+- Registration Number: [252U1R5066]
+- Section: [AIDE S-2A]
 
 ## Objective
 Connect an Express server to an SQLite database and perform CRUD operations through HTTP routes.
